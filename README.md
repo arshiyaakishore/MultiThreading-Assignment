@@ -14,6 +14,10 @@ The following graph illustrates the relationship between the number of threads a
 ![pic2](https://github.com/shreypachauri3/Multi-Threading/assets/78973003/b8577a02-6838-4d45-a48c-acccb715a667)
 
 
+![image](https://github.com/arshiyaakishore/MultiThreading-Assignment/assets/135497076/ba5a03ed-20fc-47e3-803b-91c89d4fd517)
+
+
+
 # Conclusions
 
 ## 1. Resource Contention
@@ -35,8 +39,3 @@ Frequent synchronization between threads, such as accessing shared resources or 
 - **Profile and Optimize:** Profile the code to identify bottlenecks and optimize memory access patterns or algorithmic approaches.
   
 - **Use Parallelization Techniques:** Consider using parallelization techniques like thread pooling or task scheduling to manage resources efficiently and reduce overhead.
-
-
-
-![image](https://github.com/arshiyaakishore/MultiThreading-Assignment/assets/135497076/ba5a03ed-20fc-47e3-803b-91c89d4fd517)
-
