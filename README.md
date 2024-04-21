@@ -6,28 +6,13 @@
 
 The methodology involved executing matrix multiplication tasks with varying numbers of threads on a system with 8 CPU threads. The tasks were performed using Python's `threading` module, where each thread performed matrix multiplication independently. The number of threads ranged from 1 to 8, and for each configuration, the execution time was measured.
 
-# Result Table
-
-The table below presents the execution time (in seconds) for matrix multiplication with different numbers of threads:
-
-| Num Threads | Execution Time (seconds) |
-|-------------|--------------------------|
-| 1           | 2.30                     |
-| 2           | 2.21                     |
-| 3           | 2.24                     |
-| 4           | 2.43                     |
-| 5           | 2.49                     |
-| 6           | 2.41                     |
-| 7           | 2.74                     |
-| 8           | 2.34                     |
-
 # Result Graph
 
 The following graph illustrates the relationship between the number of threads and execution time:
 
 ![pic1](https://github.com/shreypachauri3/Multi-Threading/assets/78973003/e70512ac-eb05-4f08-ae72-9729614b7eee)
 ![pic2](https://github.com/shreypachauri3/Multi-Threading/assets/78973003/b8577a02-6838-4d45-a48c-acccb715a667)
-![pic3-final](https://github.com/shreypachauri3/Multi-Threading/assets/78973003/74715d3d-ad32-45a3-8118-409313e54178)
+
 
 # Conclusions
 
